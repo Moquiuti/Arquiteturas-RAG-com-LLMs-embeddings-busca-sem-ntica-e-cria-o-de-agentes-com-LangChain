@@ -1,0 +1,1 @@
+# Arquiteturas-RAG-com-LLMs-embeddings-busca-sem-ntica-e-cria-o-de-agentes-com-LangChain
